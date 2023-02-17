@@ -36,6 +36,9 @@ An **interactive Colab Notebook** is available in order to follow the whole data
 <a href="https://colab.research.google.com/github/SkyLionx/face-super-resolution/blob/main/Face%20Recognition%20with%20Super%20Resolution.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/Colab-Open%20Notebook-green?style=for-the-badge&logo=googlecolab&color=blue">
 </a>
+<br /><br />
+
+Moreover, a full [`Report`](https://github.com/SkyLionx/face-super-resolution/blob/main/Report.pdf) and a PDF [`Presentation`](https://github.com/SkyLionx/face-super-resolution/blob/main/Presentation.pdf) are available in the repo.
 
 ## Results
 
