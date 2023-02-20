@@ -38,7 +38,7 @@ An **interactive Colab Notebook** is available in order to follow the whole data
 </a>
 <br /><br />
 
-Moreover, a full [`Report`](https://github.com/SkyLionx/face-super-resolution/blob/main/Report.pdf) and a PDF [`Presentation`](https://github.com/SkyLionx/face-super-resolution/blob/main/Presentation.pdf) are available in the repo.
+Moreover, a full [`Report.pdf`](https://github.com/SkyLionx/face-super-resolution/blob/main/Report.pdf) and a [`Presentation.pdf`](https://github.com/SkyLionx/face-super-resolution/blob/main/Presentation.pdf) are available in the repo.
 
 ## Results
 
